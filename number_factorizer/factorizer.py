@@ -1,3 +1,6 @@
+from __future__ import annotations
+
+
 def get_factors(n: int) -> list[int]:
     """
     Returns all positive factors of n in ascending order.
